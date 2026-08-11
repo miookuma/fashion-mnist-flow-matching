@@ -4,6 +4,12 @@ A class-conditional generative modeling project using flow matching to generate 
 
 The project compares deterministic ODE sampling with a marginal-preserving stochastic SDE sampler.
 
+## Sample Results
+
+Below is a comparison of samples generated using the deterministic ODE and stochastic SDE samplers.
+
+![ODE and SDE sampling comparison](ode_vs_sde.png)
+
 ## What I implemented
 
 - Conditional U-Net in PyTorch
