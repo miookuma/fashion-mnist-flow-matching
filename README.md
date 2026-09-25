@@ -38,4 +38,4 @@ I investigated:
 
 ## Notebook
 
-See `fashion_flow.ipynb` for the complete implementation, experiments, mathematical explanation, and results.
+See [`fashion_flow.ipynb`](fashion_flow.ipynb) for the complete implementation, experiments, mathematical explanation, and results.
